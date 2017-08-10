@@ -1,0 +1,9 @@
+{
+  "name": "nock-integration",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "nock": "^9.0.14",
+    "testcafe": "^0.17.0"
+  }
+}
